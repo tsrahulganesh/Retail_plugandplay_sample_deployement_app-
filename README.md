@@ -108,9 +108,11 @@ Installed Prerequisites:
 * Terraform
 * Kubectl
 * Docker
-* Helm [Link](curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
-chmod 700 get_helm.sh
-./get_helm.sh --version v3.18.4)
+* Helm
+
+| Tool | Language | GitHub Link                            | Docs Link                                   | Description                           |
+| ---- | -------- | -------------------------------------- | ------------------------------------------- | ------------------------------------- |
+| Helm | Bash     | [GitHub](https://github.com/helm/helm) | [Docs](https://helm.sh/docs/intro/install/) | Installs Helm v3.18.4 package manager |
 
 
 Follow these steps to deploy the application:
