@@ -113,7 +113,9 @@ Installed Prerequisites:
 | Tool    | Docs Link  |     
 |-----------------------|------------------------------------|
 | AWS CLI | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) |                                            
-| Terraform | [Docs](https://developer.hashicorp.com/terraform/install) | 
+| Terraform | [Docs](https://developer.hashicorp.com/terraform/install) |                                                                                         
+| kubectl | [Docs](https://kubernetes.io/docs/tasks/tools/install-kubectl/) |
+
 
 
 
