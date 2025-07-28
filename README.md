@@ -103,13 +103,7 @@ Before you begin, ensure you have the following tools installed:
 - **Helm** 
 
 ## Getting Started
-Installed Prerequisites:
-* AWS CLI
-* Terraform
-* Kubectl
-* Docker
-* Helm
-
+Install Prerequisites:
 | Tool    | Docs Link  |     
 |-----------------------|------------------------------------|
 | AWS CLI | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) |                                            
