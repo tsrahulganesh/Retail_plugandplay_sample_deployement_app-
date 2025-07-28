@@ -110,10 +110,8 @@ Installed Prerequisites:
 * Docker
 * Helm
 
-| Tool    | Language | Docs Link                                                                         |
-| ------- | -------- | --------------------------------------------------------------------------------- |
-| AWS CLI | Bash     | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) | 
-| Tool      | Docs Link |                                                
+| Tool    | Docs Link  |                                                                       
+| AWS CLI | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) |                                            
 | Terraform | [Docs](https://developer.hashicorp.com/terraform/install) | 
 
 
