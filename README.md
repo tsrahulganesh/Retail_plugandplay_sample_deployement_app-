@@ -156,17 +156,6 @@ cd retail-store-sample-app
 > - Uses private ECR with automated CI/CD
 > - Requires GitHub Actions setup
 > - See [BRANCHING_STRATEGY.md](./BRANCHING_STRATEGY.md) for complete setup
->
-> ### GitHub Actions Setup (Production Branch Only):
-> 
-> If using the Production branch, configure these secrets in your GitHub repository:
-> 
-> | Secret Name           | Value                              |
-> |-----------------------|------------------------------------|
-> | `AWS_ACCESS_KEY_ID`   | `Your AWS Access Key ID`           |
-> | `AWS_SECRET_ACCESS_KEY` | `Your AWS Secret Access Key`     |
-> | `AWS_REGION`          | `region-name`                       |
-> | `AWS_ACCOUNT_ID`        | `your-account-id` |
 
 
 ### Step 4. Deploy Infrastructure with Terraform:
