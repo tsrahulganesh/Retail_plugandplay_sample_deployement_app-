@@ -114,9 +114,10 @@ Installed Prerequisites:
 |-----------------------|------------------------------------|
 | AWS CLI | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) |                                            
 | Terraform | [Docs](https://developer.hashicorp.com/terraform/install) |   
+| Docker | [Docs](https://docs.docker.com/engine/install/) |
+| Helm | [Docs](https://helm.sh/docs/intro/install/) | 
 
-| kubectl | [Docs](https://kubernetes.io/docs/tasks/tools/install-kubectl/) |
-[Link](curl -LO "https://dl.k8s.io/release/v1.33.3/bin/darwin/arm64/kubectl, chmod +x ./kubectl, sudo mv ./kubectl /usr/local/bin/kubectl ")
+kubectl 
 ```
 # Download the kubectl binary
 curl -LO "https://dl.k8s.io/release/v1.33.3/bin/darwin/arm64/kubectl"
