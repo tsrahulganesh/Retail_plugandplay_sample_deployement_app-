@@ -110,9 +110,10 @@ Installed Prerequisites:
 * Docker
 * Helm
 
-| Tool | Docs Link                                   | 
-| ---- | ------------------------------------------- | 
-| Helm | [Docs](https://helm.sh/docs/intro/install/) | 
+| Tool    | Language | GitHub Link                              | Docs Link                                                                         | Description                                                    |
+| ------- | -------- | ---------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| AWS CLI | Bash     | [GitHub](https://github.com/aws/aws-cli) | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) | Installs AWS CLI v2 for managing AWS services via command line |
+
 
 
 Follow these steps to deploy the application:
