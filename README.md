@@ -110,9 +110,9 @@ Installed Prerequisites:
 * Docker
 * Helm
 
-| Tool | Language | GitHub Link                            | Docs Link                                   | 
-| ---- | -------- | -------------------------------------- | ------------------------------------------- | 
-| Helm | Bash     | [GitHub](https://github.com/helm/helm) | [Docs](https://helm.sh/docs/intro/install/) | 
+| Tool | Language |  Docs Link                                   | 
+| ---- | -------- |  ------------------------------------------- | 
+| Helm | Bash     |  [Docs](https://helm.sh/docs/intro/install/) | 
 
 
 Follow these steps to deploy the application:
