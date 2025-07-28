@@ -110,9 +110,11 @@ Installed Prerequisites:
 * Docker
 * Helm
 
-| Tool    | Language | GitHub Link                              | Docs Link                                                                         | Description                                                    |
-| ------- | -------- | ---------------------------------------- | --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| AWS CLI | Bash     | [GitHub](https://github.com/aws/aws-cli) | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) | Installs AWS CLI v2 for managing AWS services via command line |
+| Tool    | Language | Docs Link                                                                         |
+| ------- | -------- | --------------------------------------------------------------------------------- |
+| AWS CLI | Bash     | [Docs](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-linux.html) | 
+| Tool      | Docs Link |                                                
+| Terraform | [Docs](https://developer.hashicorp.com/terraform/install) | 
 
 
 
