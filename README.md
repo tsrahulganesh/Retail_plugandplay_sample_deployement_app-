@@ -110,9 +110,9 @@ Installed Prerequisites:
 * Docker
 * Helm
 
-| Tool | Language | GitHub Link                            | Docs Link                                   | Description                           |
-| ---- | -------- | -------------------------------------- | ------------------------------------------- | ------------------------------------- |
-| Helm | Bash     | [GitHub](https://github.com/helm/helm) | [Docs](https://helm.sh/docs/intro/install/) | Installs Helm v3.18.4 package manager |
+| Tool | Language | GitHub Link                            | Docs Link                                   | 
+| ---- | -------- | -------------------------------------- | ------------------------------------------- | 
+| Helm | Bash     | [GitHub](https://github.com/helm/helm) | [Docs](https://helm.sh/docs/intro/install/) | 
 
 
 Follow these steps to deploy the application:
