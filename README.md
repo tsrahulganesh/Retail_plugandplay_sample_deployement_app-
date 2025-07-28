@@ -120,7 +120,7 @@ curl -LO "https://dl.k8s.io/release/v1.33.3/bin/darwin/arm64/kubectl"
 # Make the binary executable
 chmod +x ./kubectl
 
-  # Move the binary into your PATH
+# Move the binary into your PATH
 sudo mv ./kubectl /usr/local/bin/kubectl
 ```
 
