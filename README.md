@@ -47,17 +47,6 @@ The Retail Store Sample App demonstrates a modern microservices architecture dep
 - **Orders Service**: Java-based order management API
 - **Checkout Service**: Node.js-based checkout orchestration API
 
-## Infrastructure Architecture
-
-![Infrastructure Architecture Diagram](./docs/images/architecture.png)
-
-The Infrastructure Architecture follows cloud-native best practices:
-
-- **Microservices**: Each component is developed and deployed independently
-- **Containerization**: All services run as containers on Kubernetes
-- **GitOps**: Infrastructure and application deployment managed through Git
-- **Infrastructure as Code**: All AWS resources defined using Terraform
-- **CI/CD**: Automated build and deployment pipelines with GitHub Actions
 
 ## Application Architecture
 
@@ -73,6 +62,17 @@ The application has been deliberately over-engineered to generate multiple de-co
 | [Orders](./src/orders)     | Java     | [Link](https://gallery.ecr.aws/aws-containers/retail-store-sample-orders)   | [Link](https://gallery.ecr.aws/aws-containers/retail-store-sample-orders-chart)   | User orders API                         |
 | [Checkout](./src/checkout) | Node     | [Link](https://gallery.ecr.aws/aws-containers/retail-store-sample-checkout) | [Link](https://gallery.ecr.aws/aws-containers/retail-store-sample-checkout-chart) | API to orchestrate the checkout process |
 
+## Infrastructure Architecture
+
+![Infrastructure Architecture Diagram](./docs/images/architecture.png)
+
+The Infrastructure Architecture follows cloud-native best practices:
+
+- **Microservices**: Each component is developed and deployed independently
+- **Containerization**: All services run as containers on Kubernetes
+- **GitOps**: Infrastructure and application deployment managed through Git
+- **Infrastructure as Code**: All AWS resources defined using Terraform
+- **CI/CD**: Automated build and deployment pipelines with GitHub Actions
 
 ## Quick Start
 
