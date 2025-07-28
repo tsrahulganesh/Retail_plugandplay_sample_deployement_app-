@@ -117,7 +117,8 @@ Installed Prerequisites:
 | Docker | [Docs](https://docs.docker.com/engine/install/) |
 | Helm | [Docs](https://helm.sh/docs/intro/install/) | 
 
-kubectl 
+**kubectl**
+
 ```
 # Download the kubectl binary
 curl -LO "https://dl.k8s.io/release/v1.33.3/bin/darwin/arm64/kubectl"
@@ -131,7 +132,7 @@ sudo mv ./kubectl /usr/local/bin/kubectl
 
 
 
-Follow these steps to deploy the application:
+## Follow these steps to deploy the application:
 
 ### Step 1. Configure AWS with **`Root User`** Credentials:
 
