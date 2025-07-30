@@ -63,7 +63,7 @@ The application has been deliberately over-engineered to generate multiple de-co
 
 ## Infrastructure Architecture
 
-![EKS](https://github.com/user-attachments/assets/8b412cf5-3f49-4ea0-9f4d-b8b25e107f0c)
+![EKS](https://github.com/user-attachments/assets/08a6815b-5c4c-48b4-87e8-e6f9a02af90a)
 
 
 The Infrastructure Architecture follows cloud-native best practices:
