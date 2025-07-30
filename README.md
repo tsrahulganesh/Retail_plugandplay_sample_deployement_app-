@@ -39,9 +39,6 @@ This is a sample application designed to illustrate various concepts related to 
 
 The Retail Store Sample App demonstrates a modern microservices architecture deployed on AWS EKS using GitOps principles. The application consists of multiple services that work together to provide a complete retail store experience:
 
-## Application Architecture Diagram
-![eks](https://github.com/user-attachments/assets/469d9f14-0499-4e34-95bf-787fbf196558)
-
 
 - **UI Service**: Java-based frontend
 - **Catalog Service**: Go-based product catalog API
@@ -54,7 +51,7 @@ The Retail Store Sample App demonstrates a modern microservices architecture dep
 
 The application has been deliberately over-engineered to generate multiple de-coupled components. These components generally have different infrastructure dependencies, and may support multiple "backends" (example: Carts service supports MongoDB or DynamoDB).
 
-![Architecture](https://github.com/aws-containers/retail-store-sample-app/raw/main/docs/images/architecture.png)
+![eks](https://github.com/user-attachments/assets/469d9f14-0499-4e34-95bf-787fbf196558)
 
 | Component                  | Language | Container Image                                                             | Helm Chart                                                                        | Description                             |
 | -------------------------- | -------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------- |
