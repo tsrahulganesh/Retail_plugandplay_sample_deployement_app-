@@ -39,7 +39,7 @@ This is a sample application designed to illustrate various concepts related to 
 
 The Retail Store Sample App demonstrates a modern microservices architecture deployed on AWS EKS using GitOps principles. The application consists of multiple services that work together to provide a complete retail store experience:
 
-![Application Architecture Diagram](./docs/images/application-architecture.png)
+Application Architecture Diagram
 ![eks](https://github.com/user-attachments/assets/469d9f14-0499-4e34-95bf-787fbf196558)
 
 
