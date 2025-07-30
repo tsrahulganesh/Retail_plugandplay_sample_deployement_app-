@@ -32,7 +32,7 @@ This is a sample application designed to illustrate various concepts related to 
 - [Infrastructure Components](#infrastructure-components)
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Monitoring and Observability](#monitoring-and-observability)
-- [Cleanup](#cleanup)
+- [Cleanup](#Cleanup)
 - [Troubleshooting](#troubleshooting)
 
 ## Overview
