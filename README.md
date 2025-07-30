@@ -51,7 +51,7 @@ The Retail Store Sample App demonstrates a modern microservices architecture dep
 
 The application has been deliberately over-engineered to generate multiple de-coupled components. These components generally have different infrastructure dependencies, and may support multiple "backends" (example: Carts service supports MongoDB or DynamoDB).
 
-![eks](https://github.com/user-attachments/assets/469d9f14-0499-4e34-95bf-787fbf196558)
+![Architecture](https://github.com/aws-containers/retail-store-sample-app/raw/main/docs/images/architecture.png)
 
 | Component                  | Language | Container Image                                                             | Helm Chart                                                                        | Description                             |
 | -------------------------- | -------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------- |
@@ -63,7 +63,7 @@ The application has been deliberately over-engineered to generate multiple de-co
 
 ## Infrastructure Architecture
 
-![Infrastructure Architecture Diagram](./docs/images/architecture.png)
+![eks](https://github.com/user-attachments/assets/469d9f14-0499-4e34-95bf-787fbf196558)
 
 The Infrastructure Architecture follows cloud-native best practices:
 
