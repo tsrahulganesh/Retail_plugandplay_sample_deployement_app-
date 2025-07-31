@@ -2,7 +2,7 @@ name: Deploy
 
 on:
   push:    
-    branches: [main] 
+    branches: [GitOps] 
     paths: ['src/**']
   workflow_dispatch: 
 
