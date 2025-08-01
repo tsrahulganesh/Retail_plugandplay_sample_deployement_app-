@@ -199,8 +199,7 @@ cd terraform/
 terraform init
 ```
 
-<img width="1205" height="292" alt="image" src="https://github.com/user-attachments/assets/
-6f1e407e-4a4e-4a4c-9bdf-0c9b89681368" />
+<img width="1205" height="292" alt="image" src="https://github.com/user-attachments/assets/6f1e407e-4a4e-4a4c-9bdf-0c9b89681368" />
 
 ```sh
 # Deploy EKS cluster and VPC
@@ -235,9 +234,6 @@ kubectl get nodes
 terraform apply --auto-approve
 ```
 
-<img width="1139" height="439" alt="image" src="https://github.com/user-attachments/assets/
-5258761a-01c4-49d0-b6f3-997fc10a9f35" />
-
 **⏱️ Expected time: 05-10 minutes**
 
 This deploys:
@@ -256,8 +252,7 @@ kubectl get svc -n ingress-nginx
 
 **🌐 Open the URL in your browser to access the retail store!**
 
-<img width="2912" height="1756" alt="image" src="https://github.com/user-attachments/assets/
-095077d6-d3cb-48f6-b021-e977db5fb242" />
+<img width="2912" height="1756" alt="image" src="https://github.com/user-attachments/assets/095077d6-d3cb-48f6-b021-e977db5fb242" />
 
 ---
 
@@ -270,6 +265,8 @@ kubectl get svc -n ingress-nginx
 3. **Build & Push** → Creates Docker images in ECR
 4. **Update Charts** → Modifies Helm chart values
 5. **ArgoCD Sync** → Automatically deploys to EKS
+
+<img width="2868" height="1130" alt="image" src="https://github.com/user-attachments/assets/f29c3416-d630-4463-81d2-aaa8af9a02da" />
 
 ### **Making Changes**
 
@@ -421,6 +418,7 @@ terraform destroy -target=module.eks_addons --auto-approve
 terraform destroy -target=module.retail_app_eks --auto-approve
 terraform destroy --auto-approve
 ```
+<img width="1139" height="439" alt="image" src="https://github.com/user-attachments/assets/5258761a-01c4-49d0-b6f3-997fc10a9f35" />
 
 ### **Clean Up ECR Repositories**
 
